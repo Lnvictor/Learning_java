@@ -1,3 +1,11 @@
+/**
+ * babys names queried in csv files
+ * 
+ * @author:  Victor Pereira
+ * @version: 27/12/2019
+ * 
+ */
+
 import edu.duke.FileResource;
 import org.apache.commons.csv.CSVRecord;
 

@@ -1,3 +1,11 @@
+/**
+ * This program gets a product export and find wich country
+ * export it
+ * 
+ * @author: Victor Pereira
+ * @version: 27/12/2019
+ */
+
 import edu.duke.*;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;

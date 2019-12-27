@@ -1,3 +1,15 @@
+/*
+ *
+ * 
+ * This program consuting csv files wich indicates temperature a day
+ * in a determined year, and returns the day wich contains a greather temperature
+ * of the year
+ * 
+ * @author: Victor Pereira
+ * version: 26/12/2019
+ * 
+ */
+
 import edu.duke.*;
 import java.io.File;
 import org.apache.commons.csv.CSVParser;

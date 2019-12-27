@@ -1,7 +1,7 @@
 
 /*
  *
- * This is a improved of FindGenes. Because  receives a String dna
+ * This is a improved of FindGenes. Gets a String dna
  * and print all genes in dna. 
  * 
  * It has too three diferent stop codons: "TAA", "TAG", "ATG".

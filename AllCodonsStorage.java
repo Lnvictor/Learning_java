@@ -1,7 +1,7 @@
 
 /*
- * This is a improved of AllCodons. Because  receives a String dna
- * and returns a list with all genes in dna. Making the code more reusable.
+ * This is a improved of AllCodons. Gets a String dna
+ * and returns a list with all genes in dna. Making the code reusable.
  * 
  * @author: Victor Pereira
  * @version: 1.0
