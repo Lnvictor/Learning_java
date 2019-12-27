@@ -4,7 +4,7 @@
  * "ZigZagConversion" problem Implementation
  * Exercise Link: leetcode.com/problems/zigzag-conversion/
  *
- * version : 1.0
+ * version : 1.1
 */
 
 class ZigZagConversion {
@@ -20,7 +20,7 @@ class ZigZagConversion {
                 converted_string = converted_string.concat(origin_str.substring(current_pos, current_pos + 1));
 
                 if (i > 0 && i < (num_rows - 1)) {
-                    int next_pos = ((num_rows - (i + 1) - 1) * 2 + 2);
+                    int next_pos = ((num_rows - i - 2) * 2 + 2);
                     current_pos += next_pos;
 
                     if (current_pos < origin_str.length()) {
