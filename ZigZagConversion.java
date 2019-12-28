@@ -1,7 +1,7 @@
 /*
  * @author: Victor Pereira
  *
- * "ZigZagConversion" problem Implementation
+ * Solution "ZigZagConversion" problem Implementation
  * Exercise Link: leetcode.com/problems/zigzag-conversion/
  *
  * version : 1.1
